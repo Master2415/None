@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  schedule: # Run workflow automatically
+    - cron: "0 0 * * *" # Runs at every 00:00 UTC
+  workflow_dispatch: # Run workflow manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: generate snake animation
+        uses: Platane/snk@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # path to the generated file
+          output: dist/snake.svg
+
+      - name: push snake animation to the output branch
+        uses: ad-m/github-push-action@master
+        with:
+          branch: output
+          force: true
+          file: dist/snake.svg
+
