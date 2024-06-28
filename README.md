@@ -4,6 +4,13 @@
 
 ¡Hola! Soy Douglas, un recién graduado en Ingeniería de Sistemas con una pasión por explorar y aprender sobre las nuevas tecnologías. Me especializo en el desarrollo de software, con experiencia en una variedad de lenguajes como Java, Python, C y JavaScript. Disfruto trabajando con Docker para facilitar el despliegue de aplicaciones y utilizando Ubuntu como mi entorno de desarrollo preferido. También tengo conocimientos sólidos en bases de datos como MySQL, SQL y SQLite para gestionar eficientemente la información. Constantemente busco mejorar mis habilidades utilizando herramientas como Linux y diversos IDEs como Eclipse, NetBeans, IntelliJ IDEA, PyCharm y Visual Studio Code.
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Master2415&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Master2415&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
   
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Master2415&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
@@ -11,12 +18,6 @@
 
 
 ---
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Master2415&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master2415&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
 
 
 ## Skills:
