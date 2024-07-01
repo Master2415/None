@@ -1,8 +1,5 @@
 <h2 align="left">👋! Hola, Soy Douglas </h2>
 
-### Acerca de mí
-
-¡Hola! Soy Douglas, un recién graduado en Ingeniería de Sistemas con una pasión por explorar y aprender sobre las nuevas tecnologías. Me especializo en el desarrollo de software, con experiencia en una variedad de lenguajes como Java, Python, C y JavaScript. Disfruto trabajando con Docker para facilitar el despliegue de aplicaciones y utilizando Ubuntu como mi entorno de desarrollo preferido. También tengo conocimientos sólidos en bases de datos como MySQL, SQL y SQLite para gestionar eficientemente la información. Constantemente busco mejorar mis habilidades utilizando herramientas como Linux y diversos IDEs como Eclipse, NetBeans, IntelliJ IDEA, PyCharm y Visual Studio Code.
 
 ###
 
