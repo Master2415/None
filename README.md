@@ -1,12 +1,14 @@
-<h2 align="left">👋! Hola, Soy Douglas </h2>
+<h2 align="left">👋 Hello, I'm Douglas!</h2>
 
 
-###
+I am a professional with experience in **microservices** and both **backend** and **frontend** projects. I have actively participated in applications that allowed me to apply my programming and database management skills, optimizing processes and efficiently handling information.
 
+My experience includes **inventory management** projects, where I implemented solutions to enhance operational efficiency and facilitate real-time data access. I possess skills in several programming languages, including **Java, Python, C, JavaScript, and PHP**, enabling me to tackle challenges creatively and effectively.
 
-
+Additionally, I have extensive experience using **Docker** for containerization, which has streamlined the development and deployment of applications, as well as **AWS** for cloud services, enhancing scalability and performance. I have completed **diplomas in Information Security Management** and obtained certifications in **AWS** and **Oracle**, reinforcing my ability to work with cloud architectures and databases. My focus is on continuous growth and technological innovation, aiming to provide effective and high-quality solutions.
 
 ---
+
 ## Skills:
 
 #### Languages:
@@ -41,6 +43,3 @@
 <p align="center">
  <img width="1000" src=".github/workflows/github-snake.svg" alt="snake"/>
 </p>
-
-
-
