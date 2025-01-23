@@ -1,7 +1,4 @@
 <h2 align="left">👋 Hello, I'm Douglas!</h2>
-<p align="left">
-    <img src="https://i.imgur.com/aGZxXm0.png" alt="Raccoon waving" width="120">
-</p>
 
 I am a professional with experience in **microservices** and both **backend** and **frontend** projects. I have actively participated in applications that allowed me to apply my programming and database management skills, optimizing processes and efficiently handling information.
 
